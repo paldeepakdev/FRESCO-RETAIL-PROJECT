@@ -6,7 +6,7 @@ The data analyses Fresco Retail’s customers’ transaction data to predict ret
 
 ### Objective
 - To study the influence of different transaction data points and their impact on a customer’s final decision to return the 
-  product(s) bought in a transaction.
+  products bought in a transaction.
   
 ### Variable Description:
 - transaction_id: Unique transaction number for each sale
