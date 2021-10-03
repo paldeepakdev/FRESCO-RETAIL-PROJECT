@@ -1,7 +1,8 @@
 # FRESCO-RETAIL-PROJECT
 The data analyses Fresco Retail’s customers’ transaction data to predict return decision using  various data points like customer background, payment modes, store types, product nature, etc
 
-![image](https://user-images.githubusercontent.com/86415241/135743821-6cad2dd5-b0ad-4425-8334-6680ea7ba0e9.png)
+![image](https://user-images.githubusercontent.com/86415241/135743821-6cad2dd5-b0ad-4425-8334-6680ea7ba0e9.png)  ![image](https://user-images.githubusercontent.com/86415241/135744129-b614a97f-fbbf-4d41-8e16-4dd17e1d1851.png)
+
 
 ### Objective
 - To study the influence of different transaction data points and their impact on a customer’s final decision to return the 
