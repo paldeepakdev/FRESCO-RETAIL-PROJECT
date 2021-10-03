@@ -84,6 +84,7 @@ The Model accuracy is 0.9039644565960355
 - Clone or download the repo.
 - Open command prompt in the downloaded folder.
 
+
 ### Dataset:
 - Data set is already uploaded
 - https://github.com/rahkum96/FRESCO-RETAIL-PROJECT/blob/main/Fresco_LargeRetailer.xlsx
