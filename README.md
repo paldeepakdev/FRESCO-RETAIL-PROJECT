@@ -62,6 +62,29 @@ transformation on dependent variable or independent variables or both to improve
 used in this project
 
 
+### Models with their Accuracy of Prediction
+- Logistic Regression Model: 
+The Model accuracy is 0.9039644565960355
+              
+                 precision   recall   f1-score   support
+           0       0.98      0.91      0.94      5236
+           1       0.53      0.88      0.66       616
+ 
+ - Random Forest Model:
+ The Model accuracy is 0.9446343130553657
+             
+                  precision  recall   f1-score   support
+           0       0.97      0.97      0.97      5236
+           1       0.75      0.72      0.73       616
+
+- If we compare logistic model with random forest the accurcay and precision is quite much better than logistic model. It mean random forest model is better.
+
+### Dataset:
+- Data set is already uploaded
+- https://github.com/rahkum96/FRESCO-RETAIL-PROJECT/blob/main/Fresco_LargeRetailer.xlsx
+
+
+
 
 
 
