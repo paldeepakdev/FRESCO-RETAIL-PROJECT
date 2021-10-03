@@ -78,6 +78,7 @@ The Model accuracy is 0.9039644565960355
            1       0.75      0.72      0.73       616
 
 - If we compare logistic model with random forest the accurcay and precision is quite much better than logistic model. It mean random forest model is better.
+- https://github.com/rahkum96/FRESCO-RETAIL-PROJECT/blob/main/FRESCO%20RETAIL.ipynb
 
 ### Steps to run this application in your system
 - Clone or download the repo.
