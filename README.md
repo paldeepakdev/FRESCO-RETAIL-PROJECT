@@ -71,7 +71,7 @@ The Model accuracy is 0.903
            1       0.53      0.88      0.66       616
  
  - Random Forest Model:
- The Model accuracy is 0.94
+ The Model accuracy is 0.94 
              
                   precision  recall   f1-score   support
            0       0.97      0.97      0.97      5236
