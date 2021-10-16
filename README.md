@@ -17,7 +17,7 @@ The data analyses Fresco Retail’s customer's transaction data to predict retur
 - prod_subcat: Product sub-category name mapped to product_subcat_code
 - Qty: Quantity of products bought / returned
 - Rate: Price per unit of a product in local currency 
-- Amount: Total amount (Qty * Rate) without the taxes
+- Amount: Total amount (Qty * Rate) without the taxes 
 - Tax: Tax amount by local government
 - Delivery_chrgs: Delivery charges to deliver the products ordered
 - Payment_mode: Mode of payment used by the customer to pay for a transaction 
