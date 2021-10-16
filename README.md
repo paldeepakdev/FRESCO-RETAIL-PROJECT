@@ -64,7 +64,7 @@ used in this project
 
 ### Models with their Accuracy of Prediction
 - Logistic Regression Model: 
-The Model accuracy is 0.903
+The Model accuracy is 0.903 
               
                  precision   recall   f1-score   support
            0       0.98      0.91      0.94      5236
