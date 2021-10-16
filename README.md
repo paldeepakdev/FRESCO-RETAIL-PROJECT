@@ -84,7 +84,7 @@ The Model accuracy is 0.903
 - Clone or download the repo.
 - Open command prompt in the downloaded folder.
 
-### PowerPoint presenation
+### PowerPoint presenation 
 Downlaod the ppt from this link
 https://github.com/rahkum96/FRESCO-RETAIL-PROJECT/blob/main/FRESCO%20RETAIL-%20PROJECT.pptx
 
