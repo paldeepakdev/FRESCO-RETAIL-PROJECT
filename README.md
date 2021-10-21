@@ -11,7 +11,7 @@ The data analyses Fresco Retail’s customer's transaction data to predict retur
 ### Variable Description:
 - transaction_id: Unique transaction number for each sale
 - Month_code: The month of transaction 
-- prod_cat_code: Product category code. A product may have multiple sub-categories
+- prod_cat_code: Product category code. A product may have multiple sub-categories 
 - prod_cat: Product category name mapped to prod_cat_code. 
 - prod_subcat_code: Product sub-category code
 - prod_subcat: Product sub-category name mapped to product_subcat_code
