@@ -60,7 +60,19 @@ the model accuracy is improving or not. Also, you can apply various transformati
 transformation on dependent variable or independent variables or both to improve accuracy. 
 10. **Model Comparison:** Comparing the chosen model with other similar models that could have been 
 used in this project
+### Dependencies
+ 
+* numpy
+* matplotlib
+* scikit-learn
+* seaborn
+* pyhthon 3.9
 
+## Usage
+
+Just run `jupyter notebook` in terminal and it will run in your browser.
+
+Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
 ### Models with their Accuracy of Prediction
 - Logistic Regression Model: 
